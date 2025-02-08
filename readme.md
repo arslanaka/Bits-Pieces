@@ -8,3 +8,5 @@ All data stays with you. No servers. No tracking. Just your personal journey.
 
 🚪 How to Use
 Open the project, click a day, add your story. Simple. Elegant. Yours.
+
+Live : https://arslanaka.github.io/Bits-Pieces/
